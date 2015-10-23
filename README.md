@@ -26,7 +26,7 @@ This is a picture of an acorn worm (from http://scitechdaily.com/similarities-be
 It turns out this protein may be a 2'-deoxynucleoside 5'-phosphate N-hydrolase. The human version is known to be able to hydrolize DNA bases (Uniprot) from the phosphate DNA backbone. However, it may also hydrolize RNA bases in the same manner. Whether this occurs in Geoduck remains to be determined.
 ![](http://i.imgur.com/GqQm4mz.png)
 
-However, because of the degeneracy of the genetic code, the other protein nucleotide hits were also searched. The sequence grepped from comp109566_c0_seq1 was searched via BLAST, and the top scoring hit homologous to  *Lingula anatina* 60S ribosomal protein L18a-like (LOC106152843). *Lingula anatina* is also a sea-dwelling creature
+The other protein nucleotide hits were also searched. The sequence grepped from comp109566_c0_seq1 was searched via BLAST, and the top scoring hit homologous to  *Lingula anatina* 60S ribosomal protein L18a-like (LOC106152843). *Lingula anatina* is also a sea-dwelling creature
 
 The sequence comp111266_c0_seq was also searched via BLAST, however, the top hit was from a tomato, which of course is impossible in this case.
 
