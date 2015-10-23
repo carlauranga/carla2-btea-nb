@@ -2,13 +2,16 @@ Carla Uranga
 
 ***Crassostria gigas* Dsx gene search**
 
-Since the Dsx protein was shown to be expressed and potentially involved in hormone regulation as shown in class, this gene was chosen for searches. First, "Dsx" was entered in NCBI and a sequence for Dsx from *Crassostria gigas* was obtained. Both the protein and mRNA sequences were downloaded and searched against the Geoduck proteome and transcriptome data bases we created in class. The nucleotide sequence query only yielded results using the tblastx search, and the following sequences were obtained:
+Since the Dsx protein was shown to be expressed and potentially involved in hormone regulation as shown in class, this gene was chosen for searches. First, "Dsx" was entered in NCBI and a sequence for Dsx from *Crassostria gigas* was obtained. Both the protein and mRNA sequences were downloaded and searched against the Geoduck proteome and transcriptome data bases we created in class. The nucleotide sequence query using the program jupyter only yielded results using the tblastx search, and the following sequences were obtained:
 ![](http://i.imgur.com/P8F49nO.png)
 
 However, a grep of comp139026_c0_seq4 (the highest scoring hit) yielded a hit for the terrestrial rat parasite *Strongyloides ratti*, and all E values were generally poor (values too high). Therefore, a protein query was attempted.
 
+When searched against the entire Uniprot database, the Dsx protein was indeed identified in a variety of species, with highest similarity to *Drosophila*. 
 
-The protein query using Jupyter yielded the following nucleotide sequences:
+![](http://i.imgur.com/4jLZ3XT.png)
+
+The protein query using jupyter against the Geoduck transcriptome only yielded the following nucleotide sequences:
 
 ![](http://i.imgur.com/Fbv9OtH.png)
 
