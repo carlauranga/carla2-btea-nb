@@ -29,7 +29,7 @@ However, because of the degeneracy of the genetic code, the other protein nucleo
 
 The sequence comp111266_c0_seq was also searched via BLAST, however, the top hit was from a tomato, which of course is impossible in this case.
 
-Therefore, the protein search of *C. gigas* with the transcriptome data showed homology to a protein from Geoduck that was somewhat homologous to the Dsx protein is more likely to have a 2' -deoxynucleoside 5'-phosphate N-hydrolase activity, which might have interesting biochemical repercussions for the homolog in Geoduck that might include a role in sex differentiation.
+Therefore, the protein search of *C. gigas* with the transcriptome data showed homology to a protein from Geoduck (somewhat homologous to the Dsx protein) is more likely to have a 2' -deoxynucleoside 5'-phosphate N-hydrolase activity, which might have interesting biochemical repercussions for the homolog in Geoduck that might include a role in sex differentiation.
 
 **NEW SEARCH**
 From the annotated Geoduck transcriptome file obtained from SQL, a grep for the word "hormone" was performed. This yielded many sequences, especially from the  NCOR1 gene from mouse. The human NCOR1 was downloaded from NCBI.
@@ -67,4 +67,4 @@ GACCTCTTGTAGGGGGATGCAGCGTCATGCTGTGAACCTCCCTGGCCCCTTTCATTTGGG
 GGTCTATTTGCCATAATCTTTGGTTTTGTAC
 
 
-This entire sequence was re-blasted using the NCBI online database. The top hit was a sequence homologous to *Crassostrea gigas* (Pacific Oyster) nuclear receptor corepressor 1-like (LOC105327345), transcript variant X7, mRNA.
+This entire sequence was re-blasted using the NCBI online database. The top hit was a sequence homologous to *Crassostrea gigas* (Pacific Oyster) nuclear receptor corepressor 1-like (LOC105327345), transcript variant X7, mRNA. According to Yamamoto et al., (2011) this gene modulates muscle mass and oxidative function in mice. Since muscle movement does not seem to be a part of sexual reproduction in the geoduck it remains to be determined what hormonal role this gene plays in the geoduck.
