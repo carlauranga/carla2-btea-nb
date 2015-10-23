@@ -71,4 +71,4 @@ GACCTCTTGTAGGGGGATGCAGCGTCATGCTGTGAACCTCCCTGGCCCCTTTCATTTGGG
 GGTCTATTTGCCATAATCTTTGGTTTTGTAC
 
 
-This entire sequence was re-blasted using the NCBI online database. The top hit was a sequence homologous to *Crassostrea gigas* (Pacific Oyster) nuclear receptor corepressor 1-like (LOC105327345), transcript variant X7, mRNA. According to Yamamoto et al., (2011) this gene modulates muscle mass and oxidative function in mice. 
+This entire sequence was re-blasted using the NCBI online database. The top hit was a sequence homologous to *Crassostrea gigas* (Pacific Oyster) nuclear receptor corepressor 1-like (LOC105327345), transcript variant X7, mRNA. According to Yamamoto et al., (2011) this gene modulates muscle mass and oxidative function in mice. However, many other cellular interactions have been identified, such as interactions with the androgen receptor, etc.
