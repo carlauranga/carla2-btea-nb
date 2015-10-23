@@ -11,7 +11,7 @@ When searched against the entire Uniprot database, the Dsx protein was indeed id
 
 ![](http://i.imgur.com/4jLZ3XT.png)
 
-The protein query using jupyter against the Geoduck transcriptome only yielded the following nucleotide sequences:
+The protein query using jupyter against the Geoduck transcriptome yielded the following nucleotide sequences:
 
 ![](http://i.imgur.com/Fbv9OtH.png)
 
