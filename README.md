@@ -20,6 +20,7 @@ This sequence was then searched in NCBI online (a BLAST search), which yielded t
 ![](http://i.imgur.com/3jINQhv.png)
 
 This is a picture of an acorn worm (from http://scitechdaily.com/similarities-between-acorn-worm-and-vertebrate-brain/Steve Tung, Stanford University):
+
 ![](http://i.imgur.com/LTmtQrW.jpg)
 
 It turns out this protein may be a 2'-deoxynucleoside 5'-phosphate N-hydrolase. The human version is known to be able to hydrolize DNA bases (Uniprot) from the phosphate DNA backbone. However, it may also hydrolize RNA bases in the same manner. Whether this occurs in Geoduck remains to be determined.
