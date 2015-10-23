@@ -19,7 +19,7 @@ The top sequence (comp137832_c0_seq2) was retrieved from the entire Geoduck tran
 This sequence was then searched in NCBI online (a BLAST search), which yielded the following top-scoring hit, homologous to a 2'-deoxynucleoside 5'-phosphate N-hydrolase from the acorn worm, *Saccoglossus kowalevskii*, also a sea-dwelling creature.
 ![](http://i.imgur.com/3jINQhv.png)
 
-This is a picture of an acorn worm (from http://scitechdaily.com/similarities-between-acorn-worm-and-vertebrate-brain/Steve Tung, Stanford University):
+This is a picture of an acorn worm (from http://scitechdaily.com/similarities-between-acorn-worm-and-vertebrate-brain/  Steve Tung, Stanford University):
 
 ![](http://i.imgur.com/LTmtQrW.jpg)
 
